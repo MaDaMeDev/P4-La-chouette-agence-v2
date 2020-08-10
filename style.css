@@ -5,6 +5,8 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    
+    
 }
 
 a,
@@ -362,6 +364,7 @@ a:hover {
     z-index: 2;
 }
 
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -702,6 +705,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    list-style-type: none;
 }
 
 h2 {
