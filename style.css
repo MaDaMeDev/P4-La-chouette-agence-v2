@@ -92,7 +92,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.jp2");
+    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -628,7 +628,7 @@ a[data-lightbox]:hover img {
 }
 
 .snapshot-lb .modal-body {
-    padding-bottom: 45px;
+    padding-bottom: 65px;
 }
 
 .snapshot-lb .lightbox-caption {
@@ -701,6 +701,7 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
     list-style-type: none;
+    padding:20px;
 }
 
 h2 {
@@ -821,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jp2");
+    background-image: url("img/image-de-presentation.png");
 }
 
 
@@ -1037,3 +1038,4 @@ h4 {
         text-align: center;
     }
 }
+
