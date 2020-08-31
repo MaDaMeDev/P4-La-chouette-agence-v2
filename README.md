@@ -11,4 +11,10 @@ Réaliser une recherche des bonnes pratiques en développement web
 
 Optimiser le référencement d'un site web
 
+# Mes recommandations pour l'optimisation 
+
+# Rapport d'optimisation
+
+[P4_03_Rapport.pdf](https://github.com/MaDaMeDev/P4-La-chouette-agence-v2/files/5151681/P4_03_Rapport.pdf)
+
 
