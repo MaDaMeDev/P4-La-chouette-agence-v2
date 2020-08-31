@@ -13,6 +13,8 @@ Optimiser le référencement d'un site web
 
 # Mes recommandations pour l'optimisation 
 
+[P4_02_recommandations.pdf](https://github.com/MaDaMeDev/P4-La-chouette-agence-v2/files/5151750/P4_02_recommandations.pdf)
+
 # Rapport d'optimisation
 
 [P4_03_Rapport.pdf](https://github.com/MaDaMeDev/P4-La-chouette-agence-v2/files/5151681/P4_03_Rapport.pdf)
